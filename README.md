@@ -8,4 +8,10 @@ Neste repositório, você irá encontrar alguns projetos que estou praticando na
 - [ ] 2º Período
 - [ ] 3º Período
 
+## Aprendendo as linguagens:
+
+- [x] Shell Script
+- [x] C
+- [ ] C++ 
+
 > Em atualização
